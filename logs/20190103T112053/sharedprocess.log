@@ -1,0 +1,38 @@
+[2019-01-03 11:20:57.230] [sharedprocess] [info] main {"machineId":"056717b44323478a57b3f5c0a6640bfe3bceb8493784283e16d4526a26a46339"}
+[2019-01-03 11:20:57.301] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 11:20:57.312] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 11:20:57.328] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 11:20:57.432] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 11:20:57.433] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 11:20:57.437] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 11:20:57.688] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 11:20:59.363] [sharedprocess] [info] Installing extension: vetur
+[2019-01-03 11:20:59.366] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 11:21:12.722] [sharedprocess] [info] Downloaded extension: vetur /tmp/150ab0d8-abfe-4249-bf8d-f5a7494c8f56
+[2019-01-03 11:21:33.510] [sharedprocess] [info] Extracted extension to /home/truth/.vscode/extensions/.octref.vetur-0.14.5: octref.vetur-0.14.5
+[2019-01-03 11:21:33.511] [sharedprocess] [info] Renamed to /home/truth/.vscode/extensions/octref.vetur-0.14.5
+[2019-01-03 11:21:33.511] [sharedprocess] [info] Installation completed. octref.vetur-0.14.5
+[2019-01-03 11:21:33.530] [sharedprocess] [info] Extensions installed successfully: octref.vetur
+[2019-01-03 11:21:37.240] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-01-03 11:25:57.698] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 11:30:57.711] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 11:35:57.723] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 11:40:57.739] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 11:45:57.753] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 11:50:57.769] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 11:55:57.782] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:00:57.795] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:05:57.810] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:10:57.821] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:15:57.831] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:20:58.243] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:25:58.253] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:30:58.267] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:35:58.279] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:40:58.291] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:45:58.307] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:50:58.316] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 12:55:58.326] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 13:00:58.341] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 13:05:58.352] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 13:10:58.376] [sharedprocess] [info] Scanned user extensions: 1

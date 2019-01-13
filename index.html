@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>SMS</title>
+        <link rel="stylesheet" href="/css/bootstrap.css">        
+    </head>
+    <body>
+        <form action="send.php" method="POST">
+            <h1 class="col-md-12 col-sm-12" style="text-align: center;">SMS</h1>
+            <div class="col-md-2 col-sm-2 offset-2 head_info">Введите номер</div>
+            <input name="number"  class="col-md-2 col-sm-2 offset-2" value="+79144279109"/>
+            <div class="col-md-2 col-sm-2 offset-2 head_info">Введите Текст для СМС</div>
+            <input name="body" type="text" class="col-md-2 offset-2" 
+            style="width: 600px; height: 500px;" value="Привет, йа СМС!"/>
+            <input type="submit" value="Отправить сообщение"/>
+        </form>
+    </body>
+</html>
